@@ -10,9 +10,12 @@ Meu nome é Anibal, estou aprendendo a programar como um profissional de Front E
 
  - <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="image-logo"  width="35px"/> CSS
 <br>
-<br>
+
 Pode me encontrar nas redes sociais como:
-<a href="https://www.linkedin.com/in/anibal-manuel-henriquez-b66022353/" targe="_blank"> Linkedin<a/>
+<br>
+<a href="https://www.linkedin.com/in/anibal-manuel-henriquez-b66022353/" targe="_blank">Linkedin<a/>
+<br>
+<a href="https://www.instagram.com/manuelrojash_/" target="_blank">Instagram<a/> 
 <br>
 <br>
 
