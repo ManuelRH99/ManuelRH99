@@ -12,7 +12,7 @@ Meu nome é Anibal, estou aprendendo a programar como um profissional de Front E
 <br>
 <br>
 Pode me encontrar nas redes sociais como:
-<a href="www.linkedin.com/in/anibal-manuel-henriquez-b66022353" targe="_blank"> Linkedin<a/>
+<a href="https://www.linkedin.com/in/anibal-manuel-henriquez-b66022353/" targe="_blank"> Linkedin<a/>
 <br>
 <br>
 
