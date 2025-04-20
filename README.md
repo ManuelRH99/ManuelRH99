@@ -11,6 +11,10 @@ Meu nome é Anibal, estou aprendendo a programar como um profissional de Front E
  - <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="image-logo"  width="35px"/> CSS
 <br>
 <br>
+Pode me encontrar nas redes sociais como:
+<a href="www.linkedin.com/in/anibal-manuel-henriquez-b66022353" targe="_blank"> Linkedin<a/>
+<br>
+<br>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRH99)](https://github.com/anuraghazra/github-readme-stats)
  <br>
