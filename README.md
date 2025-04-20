@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é Anibal, estou aprendendo a programar como um profissional de Front End. Tenho 25 anos e sou da Venezuela. Atualmente estou aprendendo:
+Meu nome é Anibal, estou aprendendo a programar como um profissional de Front End. Eu tenho 25 anos e sou da Venezuela. Atualmente estou aprendendo:
 
 <br>  
 
