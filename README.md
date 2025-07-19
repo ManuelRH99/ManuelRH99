@@ -10,6 +10,10 @@ Meu nome é Anibal, estou querendo programar como um profissional de Front End. 
 
  - <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="image-logo"  width="35px"/> CSS
 <br>
+ - < img src="https://github.com/user-attachments/assets/07d11961-b6a5-42aa-944f-580aa5175b58" width="35px" />  JS
+
+
+
 
 Pode me encontrar nas redes sociais como:
 <br>
